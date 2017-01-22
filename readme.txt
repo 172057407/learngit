@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git branch;
-Git brance2 is quick & simple;
+Git brance2 is quick and simple;
